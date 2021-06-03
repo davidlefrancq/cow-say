@@ -1,0 +1,23 @@
+{
+  "name": "cow-say",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlefrancq/cow-say.git"
+  },
+  "author": "David lefrancq (david.lefrancq@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidlefrancq/cow-say/issues"
+  },
+  "homepage": "https://github.com/davidlefrancq/cow-say#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
